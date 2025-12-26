@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+*.jar
+*.aar
+*.ap_
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven (if used)
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# Spring Boot
+application-local.yml
+application-prod.yml
+.m2/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
