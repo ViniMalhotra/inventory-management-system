@@ -907,46 +907,6 @@ curl http://localhost:8080/api/v1/ship_package/1
 - [RESTful Web Services](https://restfulapi.net/)
 - [HTTP Status Codes](https://httpwww.org/http-status-codes)
 
----
-
-## Contributing Guidelines
-
-### Code Style
-- Follow Google Java Style Guide
-- Use meaningful variable names
-- Add comprehensive JavaDoc comments
-- Keep methods focused and testable
-
-### Commit Standards
-- Use conventional commits (feat:, fix:, docs:, test:)
-- Reference issue numbers
-- Write descriptive commit messages
-
-### Pull Request Process
-1. Create feature branch from `main`
-2. Write tests for new functionality
-3. Ensure all tests pass locally
-4. Submit PR with detailed description
-5. Address review comments
-6. Squash commits if needed
-
----
-
-## License
-
-This project is licensed under the MIT License. See LICENSE file for details.
-
----
-
-## Contact & Support
-
-For issues, questions, or suggestions:
-- Email: support@inventory-system.dev
-- GitHub Issues: [Repository Issues](https://github.com/yourorg/inventory-management-system/issues)
-- Slack: #inventory-system-dev
-
----
-
 **Last Updated:** December 25, 2025  
 **Version:** 1.0.0  
 **Status:** Production Ready
