@@ -861,9 +861,9 @@ curl http://localhost:8080/api/v1/ship_package/1
 - Implement feature flags
 
 ### Monitoring & Logging
-- Centralized logging (ELK stack)
-- Application metrics (Micrometer + Prometheus)
-- Distributed tracing (Sleuth + Zipkin)
+- Centralized logging 
+- Application metrics (Prometheus)
+- Distributed tracing 
 - Health check endpoints
 
 ### Scaling
